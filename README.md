@@ -1,3 +1,3 @@
 # octoprofile
 
-download the files and enter npm install to intstall the dependencies
+download the files and enter npm install to install the dependencies
