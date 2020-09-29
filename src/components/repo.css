@@ -1,0 +1,19 @@
+a{
+    text-decoration: none;
+}
+
+.repo-card{
+    width: 300px;
+    padding: 1rem;
+    /* border: thin solid black; */
+    box-shadow: 0 0 10px gray;
+    color: black;
+    margin: 1rem;
+    overflow-wrap: break-word;
+}
+
+@media (max-width: 420px) {
+    .repo-card{
+        width: 250px;
+    }
+}
